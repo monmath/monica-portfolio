@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/monica-portfolio/static/css/main.2b9931e0.css",
+    "main.js": "/monica-portfolio/static/js/main.c81220b0.js",
+    "static/js/787.128fc6e9.chunk.js": "/monica-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Pseudo_elements.png": "/monica-portfolio/static/media/Pseudo_elements.9b7777377a2d6746f942.png",
+    "static/media/Transitions.png": "/monica-portfolio/static/media/Transitions.6c21eda9118108e45f97.png",
+    "static/media/prosjekt-phillips.png": "/monica-portfolio/static/media/prosjekt-phillips.0b6480593c687e0391a1.png",
+    "static/media/Todo-list.png": "/monica-portfolio/static/media/Todo-list.90c088454e09840e3d33.png",
+    "static/media/drum_machine.jpg": "/monica-portfolio/static/media/drum_machine.712cff3c4b9d0f87e570.jpg",
+    "static/media/CV_Monica.pdf": "/monica-portfolio/static/media/CV_Monica.5605a6aaf1bf1b2e57de.pdf",
+    "static/media/image_animation.png": "/monica-portfolio/static/media/image_animation.ae7bb2311d0d84a19501.png",
+    "static/media/Calculator.png": "/monica-portfolio/static/media/Calculator.d46fbb1ec0a44a264be1.png",
+    "static/media/image_home_intro.jpg": "/monica-portfolio/static/media/image_home_intro.440db59f324c78b7a27b.jpg",
+    "index.html": "/monica-portfolio/index.html",
+    "main.2b9931e0.css.map": "/monica-portfolio/static/css/main.2b9931e0.css.map",
+    "main.c81220b0.js.map": "/monica-portfolio/static/js/main.c81220b0.js.map",
+    "787.128fc6e9.chunk.js.map": "/monica-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9931e0.css",
+    "static/js/main.c81220b0.js"
+  ]
+}
