@@ -1,0 +1,139 @@
+.container.contact__container{
+    color: var(--color-white);
+    width: 50%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+}
+
+.contact__options{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.contact__options a{
+    color: var(--color-primary);
+    font-weight: 300;
+}
+
+.contact__option{
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    text-align: center;
+    border: 2px solid transparent;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    transition: var(--transition);
+    font-weight: lighter;
+    cursor: pointer;
+   
+}
+
+.contact__option h4, h5{
+    font-weight: lighter;
+   
+}
+
+.contact__option:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    color: #000;
+}
+
+.contact__option-icon{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.contact__option a{
+    margin-top: 0.7rem;
+    display: inline-block;
+    font-size: 0.8rem;
+    color: var(--color-dark);
+}
+
+
+/****************** FORM ************** */
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    
+}
+
+input, textarea{
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary);
+    resize: none;
+    color: var(--color-dark);
+}/*
+
+.btn-submit{
+    background: transparent;
+    text-transform: uppercase;
+    width: max-content;
+    display: inline-block;
+    border: 2px solid var(--color-primary);
+    color: var(--color-dark);
+    padding: 0.75rem 3rem;
+    cursor: pointer;
+    transition: var(--transition);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(3px);
+   
+   
+    
+  }
+  .btn-submit:hover{
+     background: transparent;
+    border: 2px solid var(--color-yellow);
+    color: var(--color-dark);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(3px);
+  }*/
+
+
+
+  
+
+
+/* Media (Laptop)*/
+@media screen and (max-width: 1024px){
+    .container.contact__container{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    } 
+}   
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+ @media screen and (max-width: 600px){
+    .container.contact__container{
+        width: var(--container-width-sm);
+    }
+    .icon__socials{
+        margin-bottom: 2.6rem;
+    }
+
+    ul.social-list{
+        display: grid;
+         grid-template-columns: 1fr 4fr;
+         margin-left: 10rem;
+     }
+
+     ul.social-list li#icons a .icon {
+         width: 1.5rem;
+         height: 1.5rem;
+         margin-top: -1rem;
+     }
+     
+     #icons a{
+         width: 60px;
+         height: 60px;
+         
+    }
+     
+ }
