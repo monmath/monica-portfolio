@@ -180,6 +180,14 @@ h5.subtitle__intro{
     left: 525px;
 }
 
+  #home-inner-circle02{
+  display: none;
+}
+
+  #home-outer-circle02{
+  display: none;
+}
+
   h5.subtitle__intro{
     background:  linear-gradient(90deg, var(--color-primary) 0.97%, #eae7de3b);
     font-family: var(--ff-secondary);
