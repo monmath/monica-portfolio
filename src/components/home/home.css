@@ -167,17 +167,16 @@ h5.subtitle__intro{
     border-radius: 0px 0px 0px 120px;
     box-shadow: 28px -28px var(--color-yellow);
     z-index: 1;
-    
 }
 
   #home-outer-circle{
-    left: 300px;
-    top: 85px;
+    left: 80px;
+    top: -220px;
 }
 
   #home-inner-circle{
-    top: 307px;
-    left: 525px;
+    top: 0px;
+    left: 300px;
 }
 
   #home-inner-circle02{
