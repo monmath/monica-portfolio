@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/monica-portfolio/static/css/main.739bf88a.css",
+    "main.css": "/monica-portfolio/static/css/main.716ca181.css",
     "main.js": "/monica-portfolio/static/js/main.a4142c76.js",
     "static/js/787.128fc6e9.chunk.js": "/monica-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Pseudo_elements.png": "/monica-portfolio/static/media/Pseudo_elements.9b7777377a2d6746f942.png",
@@ -13,12 +13,12 @@
     "static/media/Calculator.png": "/monica-portfolio/static/media/Calculator.d46fbb1ec0a44a264be1.png",
     "static/media/image_home_intro.jpg": "/monica-portfolio/static/media/image_home_intro.440db59f324c78b7a27b.jpg",
     "index.html": "/monica-portfolio/index.html",
-    "main.739bf88a.css.map": "/monica-portfolio/static/css/main.739bf88a.css.map",
+    "main.716ca181.css.map": "/monica-portfolio/static/css/main.716ca181.css.map",
     "main.a4142c76.js.map": "/monica-portfolio/static/js/main.a4142c76.js.map",
     "787.128fc6e9.chunk.js.map": "/monica-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.739bf88a.css",
+    "static/css/main.716ca181.css",
     "static/js/main.a4142c76.js"
   ]
 }
