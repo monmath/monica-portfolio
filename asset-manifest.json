@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/monica-portfolio/static/css/main.716ca181.css",
-    "main.js": "/monica-portfolio/static/js/main.a4142c76.js",
+    "main.css": "/monica-portfolio/static/css/main.d5c4f58d.css",
+    "main.js": "/monica-portfolio/static/js/main.6a3e2d8a.js",
     "static/js/787.128fc6e9.chunk.js": "/monica-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Pseudo_elements.png": "/monica-portfolio/static/media/Pseudo_elements.9b7777377a2d6746f942.png",
     "static/media/Transitions.png": "/monica-portfolio/static/media/Transitions.6c21eda9118108e45f97.png",
@@ -13,12 +13,12 @@
     "static/media/Calculator.png": "/monica-portfolio/static/media/Calculator.d46fbb1ec0a44a264be1.png",
     "static/media/image_home_intro.jpg": "/monica-portfolio/static/media/image_home_intro.440db59f324c78b7a27b.jpg",
     "index.html": "/monica-portfolio/index.html",
-    "main.716ca181.css.map": "/monica-portfolio/static/css/main.716ca181.css.map",
-    "main.a4142c76.js.map": "/monica-portfolio/static/js/main.a4142c76.js.map",
+    "main.d5c4f58d.css.map": "/monica-portfolio/static/css/main.d5c4f58d.css.map",
+    "main.6a3e2d8a.js.map": "/monica-portfolio/static/js/main.6a3e2d8a.js.map",
     "787.128fc6e9.chunk.js.map": "/monica-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.716ca181.css",
-    "static/js/main.a4142c76.js"
+    "static/css/main.d5c4f58d.css",
+    "static/js/main.6a3e2d8a.js"
   ]
 }
