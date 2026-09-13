@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/monica-portfolio/static/css/main.7ba1fba7.css",
-    "main.js": "/monica-portfolio/static/js/main.13312c98.js",
-    "static/js/787.128fc6e9.chunk.js": "/monica-portfolio/static/js/787.128fc6e9.chunk.js",
+    "main.css": "/monica-portfolio/static/css/main.cc4bc4b9.css",
+    "main.js": "/monica-portfolio/static/js/main.52609554.js",
+    "static/js/787.2dcca737.chunk.js": "/monica-portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/Pseudo_elements.png": "/monica-portfolio/static/media/Pseudo_elements.9b7777377a2d6746f942.png",
     "static/media/Transitions.png": "/monica-portfolio/static/media/Transitions.6c21eda9118108e45f97.png",
     "static/media/prosjekt-phillips.png": "/monica-portfolio/static/media/prosjekt-phillips.0b6480593c687e0391a1.png",
@@ -13,12 +13,12 @@
     "static/media/Calculator.png": "/monica-portfolio/static/media/Calculator.d46fbb1ec0a44a264be1.png",
     "static/media/image_home_intro.jpg": "/monica-portfolio/static/media/image_home_intro.440db59f324c78b7a27b.jpg",
     "index.html": "/monica-portfolio/index.html",
-    "main.7ba1fba7.css.map": "/monica-portfolio/static/css/main.7ba1fba7.css.map",
-    "main.13312c98.js.map": "/monica-portfolio/static/js/main.13312c98.js.map",
-    "787.128fc6e9.chunk.js.map": "/monica-portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.cc4bc4b9.css.map": "/monica-portfolio/static/css/main.cc4bc4b9.css.map",
+    "main.52609554.js.map": "/monica-portfolio/static/js/main.52609554.js.map",
+    "787.2dcca737.chunk.js.map": "/monica-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ba1fba7.css",
-    "static/js/main.13312c98.js"
+    "static/css/main.cc4bc4b9.css",
+    "static/js/main.52609554.js"
   ]
 }
