@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/monica-portfolio/static/css/main.cc4bc4b9.css",
-    "main.js": "/monica-portfolio/static/js/main.52609554.js",
+    "main.css": "/monica-portfolio/static/css/main.9bf5ddf6.css",
+    "main.js": "/monica-portfolio/static/js/main.24bd2f4b.js",
     "static/js/787.2dcca737.chunk.js": "/monica-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/profilbilde.png": "/monica-portfolio/static/media/profilbilde.99fb86e6c4ceb96eebd7.png",
     "static/media/Pseudo_elements.png": "/monica-portfolio/static/media/Pseudo_elements.9b7777377a2d6746f942.png",
     "static/media/Transitions.png": "/monica-portfolio/static/media/Transitions.6c21eda9118108e45f97.png",
     "static/media/prosjekt-phillips.png": "/monica-portfolio/static/media/prosjekt-phillips.0b6480593c687e0391a1.png",
@@ -11,14 +12,13 @@
     "static/media/drum_machine.jpg": "/monica-portfolio/static/media/drum_machine.712cff3c4b9d0f87e570.jpg",
     "static/media/CV_Monica.pdf": "/monica-portfolio/static/media/CV_Monica.5605a6aaf1bf1b2e57de.pdf",
     "static/media/Calculator.png": "/monica-portfolio/static/media/Calculator.d46fbb1ec0a44a264be1.png",
-    "static/media/image_home_intro.jpg": "/monica-portfolio/static/media/image_home_intro.440db59f324c78b7a27b.jpg",
     "index.html": "/monica-portfolio/index.html",
-    "main.cc4bc4b9.css.map": "/monica-portfolio/static/css/main.cc4bc4b9.css.map",
-    "main.52609554.js.map": "/monica-portfolio/static/js/main.52609554.js.map",
+    "main.9bf5ddf6.css.map": "/monica-portfolio/static/css/main.9bf5ddf6.css.map",
+    "main.24bd2f4b.js.map": "/monica-portfolio/static/js/main.24bd2f4b.js.map",
     "787.2dcca737.chunk.js.map": "/monica-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc4bc4b9.css",
-    "static/js/main.52609554.js"
+    "static/css/main.9bf5ddf6.css",
+    "static/js/main.24bd2f4b.js"
   ]
 }
