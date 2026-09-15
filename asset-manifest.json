@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/monica-portfolio/static/css/main.9bf5ddf6.css",
+    "main.css": "/monica-portfolio/static/css/main.48779a86.css",
     "main.js": "/monica-portfolio/static/js/main.24bd2f4b.js",
     "static/js/787.2dcca737.chunk.js": "/monica-portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/profilbilde.png": "/monica-portfolio/static/media/profilbilde.99fb86e6c4ceb96eebd7.png",
@@ -13,12 +13,12 @@
     "static/media/CV_Monica.pdf": "/monica-portfolio/static/media/CV_Monica.5605a6aaf1bf1b2e57de.pdf",
     "static/media/Calculator.png": "/monica-portfolio/static/media/Calculator.d46fbb1ec0a44a264be1.png",
     "index.html": "/monica-portfolio/index.html",
-    "main.9bf5ddf6.css.map": "/monica-portfolio/static/css/main.9bf5ddf6.css.map",
+    "main.48779a86.css.map": "/monica-portfolio/static/css/main.48779a86.css.map",
     "main.24bd2f4b.js.map": "/monica-portfolio/static/js/main.24bd2f4b.js.map",
     "787.2dcca737.chunk.js.map": "/monica-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bf5ddf6.css",
+    "static/css/main.48779a86.css",
     "static/js/main.24bd2f4b.js"
   ]
 }
